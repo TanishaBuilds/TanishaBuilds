@@ -30,7 +30,8 @@
 ---
 
 ## 📊 GitHub Stats  
-![Tanisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=TanishaBuilts&show_icons=true&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TanishaBuilts&show_icons=true&theme=radical)
+
 
 ---
 
